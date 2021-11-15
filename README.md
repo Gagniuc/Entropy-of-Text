@@ -2,7 +2,7 @@
 Entropy of text.
 
 # Live demo
-https://gagniuc.github.io/Entropy/
+https://gagniuc.github.io/Entropy-of-Text/
 
 # Screenshot
 
