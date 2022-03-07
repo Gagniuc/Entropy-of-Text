@@ -1,5 +1,5 @@
 # Entropy
-Entropy of text.
+Entropy of text.;;
 
 # Live demo
 https://gagniuc.github.io/Entropy-of-Text/
