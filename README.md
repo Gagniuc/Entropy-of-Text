@@ -1,6 +1,6 @@
 # Entropy of text
 
-This application calculates the entropy of text. The current example calculates the entropy for the sequence "TTTAAGCC". Entropy is a measure of the uncertainty in a random variable. In the context of information theory the term "Entropy" refers to the Shannon entropy:
+This application calculates the entropy of text. The current example calculates the entropy of sequence "TTTAAGCC". Entropy is a measure of the uncertainty in a random variable. In the context of information theory the term "Entropy" refers to the Shannon entropy:
 
 <img src="https://github.com/Gagniuc/Entropy-of-Text/blob/main/img/entropy%20eq.png?raw=true" height="90" alt="Entropy">
 
