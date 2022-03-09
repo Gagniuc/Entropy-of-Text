@@ -12,8 +12,7 @@ Where <i>n</i> represents the total number of symbols in the alphabet of a seque
 
 Live demo: https://gagniuc.github.io/Entropy-of-Text/
 
-![screenshot](https://github.com/Gagniuc/Entropy/blob/main/Entropy.png)
-
+<kbd><img src="https://github.com/Gagniuc/Entropy/blob/main/Entropy.png" /></kbd>
 
 # References
 
