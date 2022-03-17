@@ -10,10 +10,10 @@ Which can also be written as:
 
 Where <i>n</i> represents the total number of symbols in the alphabet of a sequence and <i>p<sub>i<sub></i> represents the probability of occurrence of a symbol <i>i</i> found in the alphabet. For more detailed information on entropy please see the specialized chapter from the book entitled <i>Algorithms in Bioinformatics: Theory and Implementation</i>.
 
-Live demo: https://gagniuc.github.io/Entropy-of-Text/
+**Live demo**: https://gagniuc.github.io/Entropy-of-Text/
 
-<kbd><img src="https://github.com/Gagniuc/Entropy/blob/main/Entropy.png" /></kbd>
+<kbd><img src="https://github.com/Gagniuc/Entropy-of-Text/blob/main/img/Entropy.png?raw=true" /></kbd>
 
 # References
 
-<i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, ISBN: 9781119697961.</i>
+- <i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, ISBN: 9781119697961.</i>
